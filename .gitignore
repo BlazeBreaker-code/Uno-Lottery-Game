@@ -8,9 +8,6 @@
 Build/
 Builds/
 
-# Uncomment if you want to ignore the entire assets folder
-# Assets/
-
 # Specific file types that are not required in a code-only repo
 *.csproj
 *.unityproj

@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|c:\\users\\suraj\\desktop\\projects\\uno game\\assets\\resources\\scripts\\tutorial\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\tutorial\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|c:\\users\\suraj\\desktop\\projects\\uno game\\assets\\resources\\scripts\\tracking\\prizetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\tracking\\prizetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|c:\\users\\suraj\\desktop\\projects\\uno game\\assets\\resources\\scripts\\tracking\\winnermanagermonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\tracking\\winnermanagermonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|c:\\users\\suraj\\desktop\\projects\\uno game\\assets\\resources\\scripts\\tracking\\rowwinnertrackermonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\tracking\\rowwinnertrackermonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|c:\\users\\suraj\\desktop\\projects\\uno game\\assets\\resources\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|c:\\users\\suraj\\desktop\\projects\\uno game\\assets\\resources\\scripts\\tracking\\scratchreactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\tracking\\scratchreactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|c:\\users\\suraj\\desktop\\projects\\uno game\\assets\\resources\\scripts\\card\\unodeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{822F1FB1-30B4-BAAC-FBFE-AC82F7C077CC}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\card\\unodeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrizeTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tracking\\PrizeTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Tracking\\PrizeTracker.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tracking\\PrizeTracker.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Tracking\\PrizeTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:20:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RowWinnerTrackerMonobehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tracking\\RowWinnerTrackerMonobehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Tracking\\RowWinnerTrackerMonobehaviour.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tracking\\RowWinnerTrackerMonobehaviour.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Tracking\\RowWinnerTrackerMonobehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:20:07.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScratchReactive.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tracking\\ScratchReactive.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Tracking\\ScratchReactive.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tracking\\ScratchReactive.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Tracking\\ScratchReactive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:20:03.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Core\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Core\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Core\\GameManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:18:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinnerManagerMonoBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tracking\\WinnerManagerMonoBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Tracking\\WinnerManagerMonoBehaviour.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tracking\\WinnerManagerMonoBehaviour.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Tracking\\WinnerManagerMonoBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:54:23.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tutorial\\Tutorial.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Tutorial\\Tutorial.cs",
+              "ToolTip": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Tutorial\\Tutorial.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\Tutorial\\Tutorial.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:49:02.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UnoDeck.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Card\\UnoDeck.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Card\\UnoDeck.cs",
@@ -35,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\Desktop\\Projects\\Uno Game\\Assets\\Resources\\Scripts\\Card\\Card.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\Card\\Card.cs",

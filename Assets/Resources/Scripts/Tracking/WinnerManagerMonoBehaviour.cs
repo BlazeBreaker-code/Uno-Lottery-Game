@@ -6,7 +6,7 @@ public class WinnerManagerMonoBehaviour : MonoBehaviour
     #region Private Variables
 
     private List<RowWinnerTrackerMonobehaviour> rowTrackers = new List<RowWinnerTrackerMonobehaviour>(); // List of row winner trackers.
-
+    public Tutorial tutorial;
     #endregion
 
     #region Unity Methods
@@ -38,7 +38,13 @@ public class WinnerManagerMonoBehaviour : MonoBehaviour
     {
         foreach (var row in rowTrackers)
         {
-            row.ContainsCard(cardName); // Check if the row contains the scratched card
+            row.ContainsCard(cardName); // Check if the row contains the scratched card.
+        }
+
+        // Check if it's the first scratch
+        if (!tutorial.HasTutorialStarted)
+        {
+            StartCoroutine(tutorial.TriggerTutorial()); // Trigger the tutorial.
         }
     }
 

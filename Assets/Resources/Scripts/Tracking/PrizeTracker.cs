@@ -64,21 +64,21 @@ public class PrizeTracker : ScratchReactive
         string prize = prizeMoney.text;
         int value = 0;
 
-        // Check if the prize text contains "k" indicating thousands
+        // Check if the prize text contains "k" indicating thousands.
         if (prize.Contains("k"))
         {
-            // Remove "$" and "k", parse it into an integer, then multiply by 1000
+            // Remove "$" and "k", parse it into an integer, then multiply by 1000.
             string numberPart = prize.Replace("$", "").Replace("k", "").Trim();
             value = (int)(float.Parse(numberPart) * 1000);
         }
         else
         {
-            // For non-thousand prizes, just parse the number
+            // For non-thousand prizes, just parse the number.
             string numberPart = prize.Replace("$", "").Trim();
             value = int.Parse(numberPart);
         }
 
-        // Add the parsed prize value to the current winnings
+        // Add the parsed prize value to the current winnings.
         ServiceLocator.Get<GameManager>().AddToCurrentWinnings(value);
     }
 
